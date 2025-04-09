@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{c8909c63-c07a-7f05-b968-274121b2f4ad}</ProjectGuid>
+    <ProjectGuid>{2e052b8c-7010-09cc-d605-6806a267ab20}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -402,28 +402,28 @@
       <HintPath>/Applications/Unity/Hub/Editor/6000.0.37f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.collections@56bff8827a7e/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.collections@56bff8827a7e/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.ext.nunit@60ef35ffd3cd/net40/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.ext.nunit@60ef35ffd3cd/net40/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.testtools.codecoverage@205a02cbcb39/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.testtools.codecoverage@205a02cbcb39/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Lib/Editor/unityplastic.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Lib/Editor/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Lib/Editor/log4netPlastic.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Lib/Editor/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f/Mono.Cecil.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f/Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>/Applications/Unity/Hub/Editor/6000.0.37f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
@@ -801,19 +801,19 @@
       <HintPath>/Applications/Unity/Hub/Editor/6000.0.37f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.CoreUtils">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.CoreUtils.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.CoreUtils.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Hands">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.Hands.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.Hands.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

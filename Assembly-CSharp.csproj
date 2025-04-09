@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{02129718-4e44-987e-71ce-b78cd13883a4}</ProjectGuid>
+    <ProjectGuid>{49766436-1c19-667a-2b93-29a5c8f81b0d}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -448,16 +448,16 @@
       <HintPath>/Applications/Unity/Hub/Editor/6000.0.37f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.collections@56bff8827a7e/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.collections@56bff8827a7e/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.ext.nunit@60ef35ffd3cd/net40/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.ext.nunit@60ef35ffd3cd/net40/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.testtools.codecoverage@205a02cbcb39/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.testtools.codecoverage@205a02cbcb39/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f/Mono.Cecil.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f/Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>/Applications/Unity/Hub/Editor/6000.0.37f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
@@ -835,226 +835,234 @@
       <HintPath>/Applications/Unity/Hub/Editor/6000.0.37f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Interaction.Toolkit.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem.ForUI">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.MockHMD">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.MockHMD.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.MockHMD.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Searcher.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.ConformanceAutomation">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tutorials.Core.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Tutorials.Core.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Tutorials.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.CoreUtils">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.CoreUtils.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.CoreUtils.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.007">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.007.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.007.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.MockHMD.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.MockHMD.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.MockHMD.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime.Shared">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.GPUDriven.Runtime">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
     </Reference>
     <Reference Include="PPv2URPConverters">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/PPv2URPConverters.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/PPv2URPConverters.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rendering.LightTransport.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Rendering.LightTransport.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Rendering.LightTransport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Hands.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.Hands.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.Hands.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.007">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.007.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.007.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Collections.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Collections.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Common">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Hands">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.Hands.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.Hands.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Interaction.Toolkit">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.OpenXR.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.OpenXR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.OpenXR.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.OpenXR.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tutorials.Core">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Tutorials.Core.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Tutorials.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.CoreUtils.Editor">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.XR.CoreUtils.Editor.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.XR.CoreUtils.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rendering.LightTransport.Runtime">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.Rendering.LightTransport.Runtime.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.Rendering.LightTransport.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.2D.Runtime">
-      <HintPath>/Users/elaug/Desktop/Unity Projects/VR project 1.0/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
+      <HintPath>/Users/elaug/Desktop/Teodolite/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj">
+      <Project>{528e0784-d70a-6764-f698-167bafc7b8cf}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Samples.Hands.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
-      <Project>{a1fd9820-2d0a-b88d-b0a1-7e0431206ab3}</Project>
+      <Project>{23edf5d3-698c-d660-acc2-2d83171065f0}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Hands.Samples.VisualizerSample.csproj">
-      <Project>{c8909c63-c07a-7f05-b968-274121b2f4ad}</Project>
+      <Project>{2e052b8c-7010-09cc-d605-6806a267ab20}</Project>
       <Name>Unity.XR.Hands.Samples.VisualizerSample</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj">
-      <Project>{569a01fb-7732-24bb-d06b-ef101fe872ba}</Project>
+      <Project>{f6a8e3e1-0e7a-ed21-5c4b-3bc006f72e78}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
-      <Project>{95561487-cf5e-b729-ce48-55906b7f1d0b}</Project>
+      <Project>{de43599a-d3c3-c9d7-e047-aa160d1e4346}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.Hands.csproj">
+      <Project>{f480d3e8-8059-61c2-dc45-d824a9c67c3b}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Samples.Hands</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
